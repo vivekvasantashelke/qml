@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HoverButton.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>8051_book.jpg</file>
+        <file>c_book.jpg</file>
+        <file>paste.png</file>
+        <file>save.png</file>
+        <file>saveas.jpg</file>
+        <file>undo.png</file>
+    </qresource>
+</RCC>

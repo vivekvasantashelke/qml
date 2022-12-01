@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomeFrom.ui.qml</file>
+        <file>Page1From.ui.qml</file>
+        <file>Page2From.ui.qml</file>
+        <file>Page3.qml</file>
+        <file>Page3From.ui.qml</file>
+    </qresource>
+</RCC>

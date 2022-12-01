@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>new.jpg</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>Cpp_book.jpg</file>
+        <file>cut.webp</file>
+        <file>new.jpg</file>
+    </qresource>
+</RCC>
